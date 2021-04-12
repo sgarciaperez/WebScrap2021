@@ -1,2 +1,2 @@
 # WebScrap2021
-En esta página se desarrollará mi proyecto de WebScraping.
+L'objectiu d’aquesta pràctica es l’obtenció de les dades contingudes de la Borsa de Barcelona que fan referència al’Ibex 35 (https://www.borsabcn.es/).
